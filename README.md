@@ -5,6 +5,8 @@
 - 🔭 I’m currently working as a Software Engineer at @Jatri Services Limited
 - 🤔 I’m looking for outstanding project ideas.
 - 📫 How to reach me: sharif7761@gmail.com.
+- Skills: JavaScript | React Js | Node Js | Laravel | Vue Js | Express Js | MySQL | MongoDB | GraphQL
+
 
 <details>
 <summary>
