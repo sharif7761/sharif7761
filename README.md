@@ -11,10 +11,10 @@
   More Things About Me
 </summary>
 <br>
-- I enjoy expanding my knowledge on a variety of challenging and complex software development tasks.
-- My main objective as a software engineer is to ensure that the product my team produces satisfies the highest standards of quality and offers a smooth user experience. 
-- I am confident in my ability to succeed if given an opportunity. I am determined and resilient, willing to overcome challenges to find solutions.
-- I Clearly articulate ideas, and requirements for Verbal Communication and Write clear and concise documentation and emails for Written Communication.
-- As a team player, work effectively in a team environment, contribute ideas, share knowledge, and support team goals.
+- I enjoy expanding my knowledge on a variety of challenging and complex software development tasks.<br>
+- My main objective as a software engineer is to ensure that the product my team produces satisfies the highest standards of quality and offers a smooth user experience. <br>
+- I am confident in my ability to succeed if given an opportunity. I am determined and resilient, willing to overcome challenges to find solutions.<br>
+- I Clearly articulate ideas, and requirements for Verbal Communication and Write clear and concise documentation and emails for Written Communication.<br>
+- As a team player, work effectively in a team environment, contribute ideas, share knowledge, and support team goals.<br>
 - Effectively prioritize tasks and manage time to meet project deadlines.
 </details>
